@@ -1,7 +1,7 @@
 public class Main
 {
     public static void main(String[] args) {
-        double purchasePrice = 3.35;
+        double purchasePrice = 4.75;
         double salesTax = 1.05;
         double total = 0;
 
